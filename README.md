@@ -35,3 +35,15 @@ Kaggle 대회에 참여한 학습기록 및 실습 노트북을 정리하는 레
 제출 파일 생성  
 
 ---
+
+
+## 🏠 [02 - 보스턴 집값 예측](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+
+💻 **실습 노트북** : [House Prices - Advanced Regression Techniques]()
+
+⏳ **학습 기간:**
+
+📝 **진행 상태:** 진행 중(🔥)
+
+
+### 주요 기록 
